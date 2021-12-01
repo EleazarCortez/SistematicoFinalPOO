@@ -19,6 +19,7 @@ public ArrayList<String>listado = new ArrayList();
     public void agregarReguistros(){
         
     }
+@Override
     public void agregarRegistros(Object o) {
       EmpOf OF = new EmpOf();  
       Empleado Em = new Empleado();
